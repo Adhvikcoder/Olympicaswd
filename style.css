@@ -1,0 +1,9 @@
+.background{
+    background-image: url("olympiclogo.png");
+    background-position: center;
+    background-size: cover;
+}
+
+h3{
+    color: white;
+}
